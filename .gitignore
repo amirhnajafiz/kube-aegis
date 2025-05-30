@@ -20,6 +20,15 @@ testbin/*
 
 # editor and IDE paraphernalia
 .idea
+.vscode
 *.swp
 *.swo
 *~
+
+# OS
+.DS_Store
+
+# Go binary
+main
+main~
+
